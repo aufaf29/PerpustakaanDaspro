@@ -6,11 +6,11 @@ var
 	tBuku			: tabBuku;
 	tUser			: tabUser;
 	tPeminjaman		: tabHistoryPeminjaman;
-	tPengembalian	: tabHistoryPengembalian;
+	tPengembalian		: tabHistoryPengembalian;
 	tKehilangan		: tabKehilangan;
 	Finish 			: boolean;
 	Perintah		: string;
-	i,j				: integer;
+	i,j			: integer;
 	ExitVar			: boolean;
 	
 begin
