@@ -21,8 +21,8 @@ end;
 procedure load(var tBuku : tabBuku; var tUser : tabUser; var tPeminjaman : tabHistoryPeminjaman; var tPengembalian : tabHistoryPengembalian; var tKehilangan : tabKehilangan);
 var
 	ProcessingFile 	: TextFile;
-	filename		: string;
-	baris			: string;
+	filename	: string;
+	baris		: string;
 	stringTanggal	: string;
 begin
 	write('Masukkan nama File Buku: ');
